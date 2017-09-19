@@ -1,6 +1,10 @@
-# ![](/assets/Screen Shot 2017-09-19 at 2.43.22 PM.png)
+# ![](/assets/Screen Shot 2017-09-19 at 2.43.22 PM.png)![](/assets/logo_sanswords.png)
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+---
 
+Welcome to the Guild Digest. 
 
+This gitbook is our shared repository for major updates and ongoing information about the work the staff is doing to build a sustainable Guild. 
+
+If you have questions or tensions arise from 
 
