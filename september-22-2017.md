@@ -6,10 +6,10 @@
 
 ### Contents:
 
-1. ##### September Board of Directors Meeting  {#sept-board-meeting}
-2. ##### Learner Engagement Model
-3. ##### Design Challenges
-4. ##### New Staff Role: Learner Experience Design 
+1. ##### [September Board of Directors Meeting](#sept-board-meeting) {#sept-board-meeting}
+2. ##### [Learner Engagement Model](#learner-engagement-model)
+3. ##### [Design Challenges](#design-challenges)
+4. ##### [New Staff Role: Learner Experience Design](#new-staff-role-learner-experience-design)
 
 ---
 
@@ -107,11 +107,7 @@ This design challenge also grew out of learner feedback about exit conditions, l
 
 ---
 
-New Staff Role: Learner Experience Design
+### New Staff Role: Learner Experience Design
 
-We recently created a new role in the LPS circle called "Learning Experience Design". This role is accountable for ensuring effectiveness and cohesion across all aspects of learning at the Guild, including curriculum, the phase interviews, and the supporting software and documentation.
-
-[SJ Pratt](https://app.asana.com/0/132812069238646/132812069238646)
-
-will be energizing the role, so you should expect to be seeing and hearing more from SJ moving forward \(including in the learner feedback meetings\).
+We recently created a new role in the LPS circle called "Learning Experience Design." This role is accountable for ensuring effectiveness and cohesion across all aspects of learning at the Guild, including curriculum, the phase interviews, the supporting software and documentation. SJ Pratt will be energizing the role, so expect to see and hear more from SJ moving forward \(including at the learner feedback meetings\). 
 
