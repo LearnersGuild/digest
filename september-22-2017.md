@@ -55,7 +55,7 @@ We have paused all exit conditions associated with no-pass Phase Boundary Interv
 
 ##### New Learner Progress Check
 
-This is the current iteration of the old “commitment ceremony”/“membership review process” where the Guild seeks to see if the learning model is working for the Learner and the Learner has an opportunity to cancel their membership without financial obligation to the ISA. Learners take a Hack Reactor coding challenge during week 4. They have until week 5 to cancel membership.
+This is the current iteration of the old “commitment ceremony”/“membership review process” where the Guild seeks to see if the learning model is working for the Learner and the Learner has an opportunity to cancel their membership without financial obligation to the ISA. Learners take a Hacker Rank coding challenge during week 4. They have until week 5 to cancel membership.
 
 * 100% pass rate for the August Cohort 
 
