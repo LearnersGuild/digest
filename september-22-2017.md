@@ -9,7 +9,7 @@
 1. ##### [September Board of Directors Meeting](#sept-board-meeting) {#sept-board-meeting}
 2. ##### [Learner Engagement Model](#learner-engagement-model)
 3. ##### [Design Challenges](#design-challenges)
-4. ##### [New Staff Role: Learner Experience Design](#new-staff-role-learner-experience-design)
+4. ##### [New Staff Role: Learner Experience Design](#new-staff-role)
 
 ---
 
@@ -62,7 +62,7 @@ This is the current iteration of the old “commitment ceremony”/“membership
 
 ---
 
-### Learner Engagement Model, v1
+### Learner Engagement Model, v1 {#learner-engagement-model}
 
 _On Friday, September 15 the Staff introduced v1 of The Learner Engagement Model. After soliciting proposals for this model from learners and designing an engagement model of our own, the staff met with learners, heard feedback and integrated learner and staff ideas into the version of the model shared below. It is designed to create greater integration of learner perspectives and problem solving capacity into the overall operations of the Guild You can read the full write up about the model _[_**here,**_](https://slack-files.com/T3ZNAQTAP-F7500BDU6-14d8f46fce)_** **which includes more context and the rationale behind some of the design choices._
 
@@ -93,7 +93,7 @@ _On Friday, September 15 the Staff introduced v1 of The Learner Engagement Model
 
 ---
 
-### Design Challenges
+### Design Challenges {#design-challenges}
 
 The staff plans to roll out two major design challenges within the next week or so: Constrained Resources and Aligned Incentives. Here's a sneak peek into what each challenge is asking us to think about.
 
@@ -107,7 +107,7 @@ This design challenge also grew out of learner feedback about exit conditions, l
 
 ---
 
-### New Staff Role: Learner Experience Design
+### New Staff Role: Learner Experience Design {#new-staff-role}
 
-We recently created a new role in the LPS circle called "Learning Experience Design." This role is accountable for ensuring effectiveness and cohesion across all aspects of learning at the Guild, including curriculum, the phase interviews, the supporting software and documentation. SJ Pratt will be energizing the role, so expect to see and hear more from SJ moving forward \(including at the learner feedback meetings\). 
+We recently created a new role in the LPS circle called "Learning Experience Design." This role is accountable for ensuring effectiveness and cohesion across all aspects of learning at the Guild, including curriculum, the phase interviews, the supporting software and documentation. SJ Pratt will be energizing the role, so expect to see and hear more from SJ moving forward \(including at the learner feedback meetings\).
 
