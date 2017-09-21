@@ -6,9 +6,10 @@
 
 ### Contents:
 
-1. September Board of Directors Meeting 
-2. Learner Engagement Model
-3. Design Challenges
+1. ##### [September Board of Directors Meeting](#sept-board-meeting) {#sept-board-meeting}
+2. ##### [Learner Engagement Model](#learner-engagement-model)
+3. ##### [Design Challenges](#design-challenges)
+4. ##### [New Staff Role: Learner Experience Design](#new-staff-role-learner-experience-design)
 
 ---
 
@@ -103,4 +104,10 @@ Feedback about exit conditions suggested that asking people to leave the program
 ##### Aligned Incentives:
 
 This design challenge also grew out of learner feedback about exit conditions, learner financial responsibility and Guild profits. Our goal as a company has always been to align our incentives with those of the Learners and only make money when Learners land jobs paying over $50,000. The feedback we've heard about your experience of the program and perceived value has thrown the current alignment model into question. This challenge will entail working with staff members in the Operations, Learning Product and Service and Finance, Development and Revenue circles. It seeks to figure out, similarly to the questions posed above, how we can develop contracts and financial agreements that align your incentives with ours.
+
+---
+
+### New Staff Role: Learner Experience Design
+
+We recently created a new role in the LPS circle called "Learning Experience Design." This role is accountable for ensuring effectiveness and cohesion across all aspects of learning at the Guild, including curriculum, the phase interviews, the supporting software and documentation. SJ Pratt will be energizing the role, so expect to see and hear more from SJ moving forward \(including at the learner feedback meetings\). 
 
