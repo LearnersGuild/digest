@@ -94,15 +94,13 @@ _On Friday, September 15 the Staff introduced v1 of The Learner Engagement Model
 
 ### Design Challenges
 
-The staff plans to roll out two major design challenges within the next week or so: Constrained Resources and Aligned Incentives. Here's a sneak peek into what each challenge is asking us to think about. 
+The staff plans to roll out two major design challenges within the next week or so: Constrained Resources and Aligned Incentives. Here's a sneak peek into what each challenge is asking us to think about.
 
 ##### Constrained Resources:
 
-Feedback about exit conditions suggested that asking people to leave the program is an intolerable design and has a huge impact on the learning community and the person\(s\) asked to leave. This challenge grew out of our attempt to address this concern by asking Learners to think with us around how to best apply the limited resources we have to achieve our mission of building an onramp into tech for people who otherwise wouldn't have one. This challenge will entail working with staff members in the Finance, Development and Revenue circle and the Learning Product and Service circle, digging into the financial model, and looking at ways to balance building a sustainable Guild with the needs of the learning community. 
+Feedback about exit conditions suggested that asking people to leave the program is an intolerable design and has a huge impact on the learning community and the person\(s\) asked to leave. This challenge grew out of our attempt to address this concern by asking Learners to think with us around how to best apply the limited resources we have to achieve our mission of building an onramp into tech for people who otherwise wouldn't have one. This challenge will entail working with staff members in the Finance, Development and Revenue circle and the Learning Product and Service circle, digging into the financial model, and looking at ways to balance building a sustainable Guild with the needs of the learning community.
 
 ##### Aligned Incentives:
 
-This design challenge also grew out of learner feedback about exit conditions, learner financial responsibility and Guild profits. Our goal as a company has always been to align our incentives with those of the Learners and only make money when Learners land jobs paying over $50,000. The feedback we've heard about your experience of the program and perceived value has thrown the current alignment model into question. This challenge will entail working with staff members in the Operations, Learning Product and Service and Finance, Development and Revenue circles. It seeks to figure out, similarly to the questions posed above, how we can develop contracts and financial agreements that align your incentives with ours. 
-
-
+This design challenge also grew out of learner feedback about exit conditions, learner financial responsibility and Guild profits. Our goal as a company has always been to align our incentives with those of the Learners and only make money when Learners land jobs paying over $50,000. The feedback we've heard about your experience of the program and perceived value has thrown the current alignment model into question. This challenge will entail working with staff members in the Operations, Learning Product and Service and Finance, Development and Revenue circles. It seeks to figure out, similarly to the questions posed above, how we can develop contracts and financial agreements that align your incentives with ours.
 
