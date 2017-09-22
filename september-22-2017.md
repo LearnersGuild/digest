@@ -6,7 +6,7 @@
 
 ### Contents:
 
-1. ##### [September Board of Directors Meeting](#sept-board-meeting) {#sept-board-meeting}
+1. ##### [September Board of Directors Meeting](#sept-board-meeting)
 2. ##### [Learner Engagement Model](#learner-engagement-model)
 3. ##### [Design Challenges](#design-challenges)
 4. ##### [New Staff Role: Learner Experience Design](#new-staff-role)
