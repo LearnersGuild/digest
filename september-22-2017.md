@@ -6,14 +6,14 @@
 
 ### Contents:
 
-1. ##### [September Board of Directors Meeting](#sept-board-meeting) {#sept-board-meeting}
+1. ##### [September Board of Directors Meeting](#sept-board-meeting) 
 2. ##### [Learner Engagement Model](#learner-engagement-model)
 3. ##### [Design Challenges](#design-challenges)
 4. ##### [New Staff Role: Learner Experience Design](#new-staff-role)
 
 ---
 
-### September Board of Directors Meeting
+### September Board of Directors Meeting {#sept-board-meeting}
 
 _In early September the Lead Links of the Learning Product and Service Circle \(Jeffrey Wescott\), Membership Circle and Operations Circle \(Briana Krompier\), Finance, Development and Revenue Circle \(David Guendelman\) and General Company Circle \(Ian Inaba\)  met with our Board of Directors for their regular update on the company and key objectives going forward. The team sought to share major updates since the introduction of the upgraded learning model, financial data and impact of learner feedback on the Guild’s priorities going forward. Due to the complexity and density of the financial information included in the presentation deck, it has not been included here. If you are interested in understanding more about the Guild's financial modeling please join the Constraint Resources Design Challenge Team. You can learn more about how to join the team in section 3 of this digest.   _
 
