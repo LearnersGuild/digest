@@ -79,7 +79,7 @@ _On Friday, September 15 the Staff introduced v1 of The Learner Engagement Model
 #### **Information flow from Learners → Staff:**
 
 * **Circle Engagement Channels**
-  Learner Slack now has six \#engage-channels for all circles whose work has implications for learners. Use these channels to raise [tensions](http://wiki.holacracy.org/index.php?title=Tension) about work the circle is doing. The Learner Engagement roll on the staff will support you in moving forward. Staff may also use these channels to solicit feedback from Learners about particular issues relevant to the circle.
+  Learner Slack now has six \#engage-channels for all circles whose work has implications for learners. Use these channels to raise [tensions](http://wiki.holacracy.org/index.php?title=Tension) about work the circle is doing. The Learner Engagement role on the staff will support you in moving forward. Staff may also use these channels to solicit feedback from Learners about particular issues relevant to the circle.
 * **Design challenges or one-off focus groups**
   A request to participate in finding a design solution to a Guild problem may come from any circle, at any time and is open to any learner who wants to participate. Working groups around specific challenges or topics may form and disband as needed.
 * **LPS feedback sessions**
