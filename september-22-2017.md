@@ -7,7 +7,7 @@
 ### Contents:
 
 1. ##### [September Board of Directors Meeting](#september-board-of-directors-meeting)
-2. ##### [Learner Engagement Model](learner-engagement-model-v1#)
+2. ##### [Learner Engagement Model](#learner-engagement-model-v1#)
 3. ##### [Design Challenges](#design-challenges)
 4. ##### [New Staff Role: Learner Experience Design](#new-staff-role-learner-experience-design)
 5. ##### [Anchor Challenge](#anchor-challenge)
