@@ -6,9 +6,9 @@
 
 ### Contents:
 
-1. ##### [September Board of Directors Meeting](#september-board-of-directors-meeting-1)
+1. ##### [September Board of Directors Meeting](#september-board-of-directors-meeting)
 2. ##### [Learner Engagement Model](#learner-engagement-model-v1)
-3. ##### [Design Challenges](#design-challenges-1)
+3. ##### [Design Challenges](#design-challenges)
 4. ##### [New Staff Role: Learner Experience Design](#new-staff-role-learner-experience-design-1)
 5. ##### [Anchor Challenge](#anchor-challenge-1)
 
@@ -26,9 +26,9 @@ _In early September the Lead Links of the Learning Product and Service Circle \(
 * Phases and associated learning supports created additional structure and guidance
 * Added an outbound recruiter role
 * Hired 4 alumni \(3 Full Time Employees\) as coaches
-* Areas earmarked for improvements: 
+* Areas earmarked for improvements:
   * Peer-learning structures \(e.g., P1/P2 pairing\)
-  * P1/P2 coding/projects 
+  * P1/P2 coding/projects
   * P3 structure
   * Resources for P4/P5 curriculum and career development
 
@@ -59,7 +59,7 @@ We have paused all exit conditions associated with no-pass Phase Boundary Interv
 
 This is the current iteration of the old “commitment ceremony”/“membership review process” where the Guild seeks to see if the learning model is working for the Learner and the Learner has an opportunity to cancel their membership without financial obligation to the ISA. Learners take a Hacker Rank coding challenge during week 4. They have until week 5 to cancel membership.
 
-* 100% pass rate for the August Cohort 
+* 100% pass rate for the August Cohort
 
 ---
 
@@ -116,7 +116,4 @@ We recently created a new role in the LPS circle called "Learning Experience Des
 
 ### Anchor Challenge
 
-I did all I could to code anchors into this digest so you wouldn't have to scroll through the entire thing. But, alas, I just couldn't get it to work. The digest is a public Learners Guild repo, so if you can figure it out, which I'm sure  many of you can, please submit a pull request with anchors added to the code. And, I'll buy you a gelato if you teach me how to do it myself! &lt;3 
-
-
-
+I did all I could to code anchors into this digest so you wouldn't have to scroll through the entire thing. But, alas, I just couldn't get it to work. The digest is a public Learners Guild repo, so if you can figure it out, which I'm sure  many of you can, please submit a pull request with anchors added to the code. And, I'll buy you a gelato if you teach me how to do it myself! &lt;3
