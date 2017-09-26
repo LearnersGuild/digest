@@ -6,15 +6,15 @@
 
 ### Contents:
 
-1. ##### [September Board of Directors Meeting](#september-board-of-directors-meeting)
-2. ##### [Learner Engagement Model](#learner-engagement-model-v1)
-3. ##### [Design Challenges](#design-challenges-1)
-4. ##### [New Staff Role: Learner Experience Design](#new-staff-role-learner-experience-design-1)
-5. ##### [Anchor Challenge](#anchor-challenge-1)
+1. ##### [September Board of Directors Meeting](#board)
+2. ##### [Learner Engagement Model](#engagement)
+3. ##### [Design Challenges](#design)
+4. ##### [New Staff Role: Learner Experience Design](#role)
+5. ##### [Anchor Challenge](#anchor)
 
 ---
 
-### September Board of Directors Meeting
+### September Board of Directors Meeting {#board}
 
 _In early September the Lead Links of the Learning Product and Service Circle \(Jeffrey Wescott\), Membership Circle and Operations Circle \(Briana Krompier\), Finance, Development and Revenue Circle \(David Guendelman\) and General Company Circle \(Ian Inaba\)  met with our Board of Directors for their regular update on the company and key objectives going forward. The team sought to share major updates since the introduction of the upgraded learning model, financial data and impact of learner feedback on the Guild’s priorities going forward. Due to the complexity and density of the financial information included in the presentation deck, it has not been included here. If you are interested in understanding more about the Guild's financial modeling please join the Constraint Resources Design Challenge Team when it's rolled out in the upcoming weeks. You can learn more about the Constrained Resources Design Challenge in section 3 of this digest._
 
@@ -63,7 +63,7 @@ This is the current iteration of the old “commitment ceremony”/“membership
 
 ---
 
-### Learner Engagement Model, v1
+### Learner Engagement Model, v1 {#engagement}
 
 _On Friday, September 15 the Staff introduced v1 of The Learner Engagement Model. After soliciting proposals for this model from learners and designing an engagement model of our own, the staff met with learners, heard feedback and integrated learner and staff ideas into the version of the model shared below. It is designed to create greater integration of learner perspectives and problem solving capacity into the overall operations of the Guild You can read the full write up about the model _[_**here,**_](https://slack-files.com/T3ZNAQTAP-F7500BDU6-14d8f46fce)_** **which includes more context and the rationale behind some of the design choices._
 
@@ -94,7 +94,7 @@ _On Friday, September 15 the Staff introduced v1 of The Learner Engagement Model
 
 ---
 
-### Design Challenges
+### Design Challenges {#design}
 
 The staff plans to roll out two major design challenges within the next week or so: Constrained Resources and Aligned Incentives. Here's a sneak peek into what each challenge is asking us to think about.
 
@@ -108,12 +108,12 @@ This design challenge also grew out of learner feedback about exit conditions, l
 
 ---
 
-### New Staff Role: Learner Experience Design
+### New Staff Role: Learner Experience Design {#role}
 
 We recently created a new role in the LPS circle called "Learning Experience Design." This role is accountable for ensuring effectiveness and cohesion across all aspects of learning at the Guild, including curriculum, the phase interviews, the supporting software and documentation. SJ Pratt will be energizing the role, so expect to see and hear more from SJ moving forward \(including at the learner feedback meetings\).
 
 ---
 
-### Anchor Challenge
+### Anchor Challenge {#anchor}
 
 I did all I could to code anchors into this digest so you wouldn't have to scroll through the entire thing. But, alas, I just couldn't get it to work. The digest is a public Learners Guild repo, so if you can figure it out, which I'm sure  many of you can, please submit a pull request with anchors added to the code. And, I'll buy you a gelato if you teach me how to do it myself! &lt;3
