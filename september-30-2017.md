@@ -6,9 +6,9 @@
 
 _Going forward the Guild Digest will be organized by Circles rather than topics. Cross-circle updates, like the Design Challenges for example will have their own section._
 
-##### LPS
+##### LPS - Learning Product & Support
 
-##### FDR
+##### FDR - Funds, Development & Revenue
 
 ##### Marketing
 
