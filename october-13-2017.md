@@ -60,17 +60,19 @@
 
 ### _General Company Circle \(GCC\) // **Lead Link: Ian Inaba**_
 
-**Lead Link: Ian**
-
 #### Tactical Updates
+
+* ##### DESIGN CHALLENGES: 
+
+  * A few learner proposals and ideas are in the works. The design challenge groups will meet next week to discuss those ideas on Wednesday 10/18, then staff will head into an all-day retreat on Thursday 10/19 to digest and incorporate them. The plan is to return with concrete proposals from staff for another round feedback from the working groups during the week of 10/23.
 
 ### 
 
-### _Marketing // L**ead Link: Ian Inaba\***_
-
-#### Tactical Updates
+### _Marketing // L**ead Link: Ian Inaba**_
 
 * No updates this week.
+
+### 
 
 ### _Operations // **Lead Link: Briana Krompier**_
 

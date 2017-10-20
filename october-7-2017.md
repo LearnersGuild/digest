@@ -52,8 +52,6 @@
 
 ### _General Company Circle \(GCC\) // **Lead Link: Ian Inaba**_
 
-**Lead Link: Ian**
-
 #### Tactical Updates
 
 * There is a proposal on the table to re-organize our company circles and staff to better align with Learners'
@@ -61,11 +59,11 @@
 
 ### 
 
-### _Marketing // L**ead Link: Ian Inaba\***_
-
-#### Tactical Updates
+### _Marketing // L**ead Link: Ian Inaba**_
 
 * No updates this week.
+
+### 
 
 ### _Operations // **Lead Link: Briana Krompier**_
 
