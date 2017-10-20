@@ -30,6 +30,12 @@
 
 #### Tactical Updates
 
+* Effective immediately, Phase Interview outcomes will no longer be used to determine program participation. However, your total time in the program is not changing. Longer time spent in one phase means less available time in upcoming phases. If you are not clear on your program end date, feel free to contact Carla to confirm. To be clear, Membership Expectations, as described in the Learner Guide still apply as conditions for remaining in the program.
+
+* If you do not pass a Phase Interview you must wait a minimum of two weeks before you can attempt the interview again. Waiting two weeks gives you time to integrate the feedback provided in your previous attempt, and it frees up SEPs to provide support to learners who are not interviewing. 
+
+* The Learner Guide will be undergoing several updates to reflect changes to exit conditions. The updates will be completed early next week. Until then, this set of announcements will count as the key resource for the new policy.
+
 * SJ has been gathering a lot of input about our learning model and curriculum. Specifically, what’s been working well, what’s not been working, and how we might make improvements. The beginnings of a proposal to streamline and simplify things is starting to come together. We should be able to share more info sometime next week.
 
 * The “Blockchain Gang” has proposed a way to integrate blockchain technology \(specifically Ethereum\) into our curriculum at the Guild. It’s an exciting space, and SJ is exploring it in detail right now.
