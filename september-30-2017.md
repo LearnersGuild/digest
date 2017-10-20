@@ -4,11 +4,11 @@
 
 # September 29, 2017
 
-_Going forward the Guild Digest will be organized by Circles rather than topics. Cross-circle updates, like the Design Challenges for example will have their own section._
+_Going forward the Guild Digest will be organized by Circles rather than topics. _
 
-##### LPS - Learning Product & Support
+##### LPS - Learning Product and Support
 
-##### FDR - Funds, Development & Revenue
+##### FDR - Funds, Development and Revenue
 
 ##### Marketing
 
@@ -63,7 +63,7 @@ _\*This week's update was compiled by Briana Krompier_
 
 ### 
 
-### _Membership // Carla Bagdonas_
+### _Membership // **Lead Link: **Carla Bagdonas_
 
 The Membership Circle is a parent circle for Enrollment, Learner Services and Alum Relations\)
 
@@ -81,7 +81,7 @@ The Membership Circle is a parent circle for Enrollment, Learner Services and Al
 
 ### 
 
-### Operations // **Lead Link: Briana Krompier**
+### _Operations // **Lead Link: Briana Krompier**_
 
 #### Strategic Priorities
 
