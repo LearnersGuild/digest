@@ -4,6 +4,8 @@
 * [September 22 2017](september-22-2017.md)
 * [September 29 2017](september-30-2017.md)
 * [October 6 2017](october-7-2017.md)
+* October 13 2017
+* October 20 2017
 
 
 
