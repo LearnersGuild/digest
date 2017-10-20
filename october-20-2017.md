@@ -22,9 +22,6 @@
 
 #### Tactical Updates
 
-* ##### LEADERSHIP:
-
-  * Shereef Bishay has handed off CEO responsibilities to Ian Inaba but will continue to be Chairman of the Board and assist team as needed. The hand off was effective as of this week. 
 * ##### TEAM ALIGNMENT:
 
   * Staff met on Thursday to digest the Design Challenge proposals from Learners and tackle open questions around program and business model. Our goal is to develop and bring integrated proposals back to the design challenge groups for feedback by the end of next week \(10/30\). 
