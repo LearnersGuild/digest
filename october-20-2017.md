@@ -2,6 +2,8 @@
 
 ---
 
+## October 20, 2017
+
 ##### General Company Circle \(GCC\)\*
 
 ##### Learning Product and Services \(LPS\)
@@ -32,7 +34,7 @@
 
 * Effective immediately, Phase Interview outcomes will no longer be used to determine program participation. However, your total time in the program is not changing. Longer time spent in one phase means less available time in upcoming phases. If you are not clear on your program end date, feel free to contact Carla to confirm. To be clear, Membership Expectations, as described in the Learner Guide still apply as conditions for remaining in the program.
 
-* If you do not pass a Phase Interview you must wait a minimum of two weeks before you can attempt the interview again. Waiting two weeks gives you time to integrate the feedback provided in your previous attempt, and it frees up SEPs to provide support to learners who are not interviewing. 
+* If you do not pass a Phase Interview you must wait a minimum of two weeks before you can attempt the interview again. Waiting two weeks gives you time to integrate the feedback provided in your previous attempt, and it frees up SEPs to provide support to learners who are not interviewing.
 
 * The Learner Guide will be undergoing several updates to reflect changes to exit conditions. The updates will be completed early next week. Until then, this set of announcements will count as the key resource for the new policy.
 
