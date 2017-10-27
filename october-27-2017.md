@@ -78,7 +78,7 @@
 
 * We are preparing for next month’s all staff offsite work intensive on November 9th. The purpose of our monthly offsites is to stay aligned in managing our work, dig deeper into our organization-wide priorities, and engage in leadership development that helps us best work together as a team towards our company’s mission.
 
-* We are prioritizing designing and publishing a revamped staff guide outlining internal processes and practices to create better/faster onboarding into our company and more efficiencies in our ongoing work \(eg Onboarding Manual, Hiring Guide\).
+* We are prioritizing designing and publishing a revamped staff guide outlining internal processes and practices to create better/faster onboarding into our company and more efficiencies in our ongoing work \(e.g., Onboarding Manual, Hiring Guide\).
 
 
 
