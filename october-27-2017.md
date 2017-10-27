@@ -2,7 +2,7 @@
 
 ---
 
-## October 20, 2017
+## October 27, 2017
 
 ##### General Company Circle \(GCC\)
 
