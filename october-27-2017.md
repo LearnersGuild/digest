@@ -76,7 +76,7 @@
 
 * The range of ideas generated through the design challenges and accompanying proposals have implications for how the Guild is internally structured and regulated by external agencies. We're currently looking into the feasibility of those ideas. 
 
-* We are preparing for next month’s all staff offsite work intensive on November 9th. The purpose of our monthly offsites is to stay aligned in managing our work, dig deeper into our organization-wide priorities, and toengage in leadership development that helps us best work together as a team towards our company’s mission.
+* We are preparing for next month’s all staff offsite work intensive on November 9th. The purpose of our monthly offsites is to stay aligned in managing our work, dig deeper into our organization-wide priorities, and engage in leadership development that helps us best work together as a team towards our company’s mission.
 
 * We are prioritizing designing and publishing a revamped staff guide outlining internal processes and practices to create better/faster onboarding into our company and more efficiencies in our ongoing work \(eg Onboarding Manual, Hiring Guide\).
 
