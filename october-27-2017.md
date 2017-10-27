@@ -84,7 +84,7 @@
 
 ### _Marketing // L**ead Link: Ian Inaba**_
 
-* We're wrapping up a project with Obvious Ventures for their forthcoming photoessay project featuring world positive companies building businesses that solve big social challenges. The project included interviewing and photographing Guild Alum, Ana Sauceda, candid photos at the Guild, and photographing some staff members. 
+* We're wrapping up a project with Obvious Ventures for their forthcoming photoessay project featuring world positive companies building businesses that solve big social challenges. The project included interviewing and photographing Guild Alum Ana Sauceda, candid photos at the Guild, and photographing some staff members. 
 
 * All other major marketing initiatives are on hold while we contemplate further program and business model changes. 
 
