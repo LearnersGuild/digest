@@ -42,13 +42,13 @@
 
 #### Tactical Updates
 
-* We have also been exploring industry demand with respect to hiring, and considering how those industry needs may inform our curriculum. SJ is integrating these considerations into the larger proposal we're sharing with the Design Challenge groups on Friday, 11/3. 
+* We are exploring industry demand with respect to hiring, and considering how those industry needs may inform our curriculum. SJ is integrating these considerations into the larger proposal we're sharing with the Design Challenge groups on Friday, 11/3. 
 
 * We are still actively recruiting a recruiter-type person to help us place learners and alumni into open jobs in the industry. We’ve interviewed several candidates that were not a good fit, but currently have a few in our pipeline that seem promising.
 
 * Updates to the Learner Guide reflecting the recent removal of exit conditions is now complete. If you notice any inconsistencies in the Guide please submit a PR for review.
 
-* While we're calling the newly merged phases 4 and 5 "Area 45" internally, however we're referring to the final phase as Phase 4 in public facing documentation and the Learner Guide. 
+* We're calling the newly merged phases 4 and 5 "Area 45" internally, but we're referring to the final phase as Phase 4 in public facing documentation and the Learner Guide. 
 
 
 
