@@ -38,13 +38,13 @@
 
 #### Tactical Updates
 
-* SJ is refining proposed adjustments to the learning model based on feedback he sourced from learners and market analysis. Presently the intention is to make small, incremental adjustments when we move into implementation stage. We hope to share some of the initial ideas for those adjustments within the next few weeks.
+* SJ is refining proposed adjustments to the learning model based on feedback sourced from learners and market analysis.  We hope to share some of the initial ideas for those adjustments within the next few weeks.
 
-* Bonnie will be conducting an experiment bext week in **P1 and P2** to add more structure to the program. All P1 and P2 learners should join her in the conference room immediately after Monday's All Hands for a kick-off meeting. If you can't attend the meeting, please let Bonnie know in advance.
+* Bonnie will be conducting an experiment next week in **P1 and P2** to add more structure to those phases. All P1 and P2 learners should join her in the conference room immediately after Monday's All Hands for a kick-off meeting. If you can't attend the meeting, please let Bonnie know in advance.
 
 * Active recruitment for a jobs placement/recruiter role is still underway. If you know someone who may fit the bill please send them our way.
 
-* The Learner engagement channels have been taken offline due to low participation. We'd like to get overall feedback on how staff/learner engagement has been going since we shifted our focus in the last couple of months towards increased feedback, collaboration, and transparency. Please take a few moment to submit this feedback survey \(link forthcoming\): \_\_\_\_\_\_\_\_\_ so we can keep improving how we work together.
+* The Learner engagement channels have been taken offline due to low participation. We'd like to get overall feedback on how staff/learner engagement has been going since we shifted our focus in the last couple of months towards increased feedback, collaboration, and transparency. Please take a few moments to submit this [**feedback survey**](https://www.surveymonkey.com/r/MX8HDB9) so we can keep improving how we work together.
 
 ### _Alumni Relations // Lead Link: Carla Bagdonas_
 
