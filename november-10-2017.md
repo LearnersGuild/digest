@@ -24,9 +24,9 @@
 
 #### Tactical Updates
 
-* We moved toward higher resolution definitions of our organization-wide priorities at our off-site work day this week. We have our eye on a two key areas: Guild sustainability and learner success. As we refine these priorities over the next few weeks we’ll share more about what those two things look like in practice for learners. 
+* We moved toward higher resolution definitions of our organization-wide priorities at our off-site work day this week. We have our eye on a two key areas: Guild sustainability and learner success. As we refine these priorities over the next few weeks we’ll share more about what those two things look like in practice for learners.
 
-* Many thanks to the learners who participated in the Design Challenges. The Constraint Resources Group helped us identify potential additional revenue streams for the Guild. The questions the Aligned Incentives Group tackled, and the solutions they explored, remain inconclusive. However, during exploration it became clear that continuing to refine the learning model is one of the highest leverage ways to align our incentives. 
+* Many thanks to the learners who participated in the Design Challenges. The Constraint Resources Group helped us identify potential additional revenue streams for the Guild. The questions the Aligned Incentives Group tackled, and the solutions they explored, remain inconclusive. However, during exploration it became clear that continuing to refine the learning model is one of the highest leverage ways to align our incentives.
 
 ### _Funds, Development, & Revenue \(FDR\) // **Lead Link: Ian Inaba**_
 
@@ -54,13 +54,14 @@
 
     * There is transparency in why decisions are made \(4.10/6.00\)
 
-  * In general, learners appreciate the Guild Digest and Monday All-Hands meetings and think that conversations in \#guild-feedback channel have been productive. There was a general sense that “staff are listening more,” which makes us feel all warm and fuzzy :-\) 
+  * In general, learners appreciate the Guild Digest and Monday All-Hands meetings and think that conversations in \#guild-feedback channel have been productive. There was a general sense that “staff are listening more,” which makes us feel all warm and fuzzy :-\)
 
   We’ll continue striving to strengthen our culture of trust and transparency around decision-making.
 
 ### _Alumni Relations // Lead Link: Carla Bagdonas_
 
 * Following up on the data shared last week, our circle is setting internal goals around increasing Alumni job placement / employment rate by the end of the year. Stay tuned for actual metrics and progress.
+
 * Work on the Slack-Migration is taking a little longer than we originally anticipated. Stay tuned for an upcoming deployment date.
 
 ### _Enrollment // Lead Link: Carla Bagdonas_
