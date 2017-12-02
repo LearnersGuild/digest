@@ -9,7 +9,5 @@
 * [October 27 2017](october-27-2017.md)
 * [November 3 2017](november-3-2017.md)
 * [November 10 2017](november-10-2017.md)
-* December 01 2017
-
-
+* [December 01 2017](december-01-2017.md)
 
