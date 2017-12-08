@@ -11,7 +11,5 @@
 * [November 10 2017](november-10-2017.md)
 * [November 17 2017](november-17-2017.md)
 * [December 01 2017](december-01-2017.md)
-* December 08 2017
-
-
+* [December 08 2017](december-08-2017.md)
 
