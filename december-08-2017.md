@@ -22,7 +22,7 @@
 
 ##### Tactical Updates
 
-* We are in the process of updating our governance structure. Several circles have been renamed, some have been dissolved and others have been created. Overall, our internal restructuring reflects our efforts to align governance with the updates to the learning and business models. 
+* We have made several updates to our governance structure. Several circles have been renamed, some have been dissolved and others have been created. Overall, our internal restructuring reflects our efforts to align governance with the updates to the learning and business models. 
 
 ## 
 
@@ -45,9 +45,9 @@
 
 ##### Tactical Updates
 
-* The rebooted COS, now called, Omni is up and running with bi-weekly House Meetings, Learning Facilitator 1:1s.
+* The rebooted COS, now called, Omni is up and running with bi-weekly House Meetings and Learning Facilitator 1:1s.
 
-* A significant difference between Omni and the old COS is that workshops beyond your first few weeks at the Guild will now be a required part of the program. We’re in the process of defining the scope of Omni workshops and the offering cadence. Check out [**this article**](https://medium.com/sololearn/these-five-essential-soft-skills-will-help-your-programing-career-flourish-9260c6a7e43e   "These Five Essential &quot;Soft-Skills&quot; Will Help Your Programming Career Flourish") from the folks at SoloLearn on five critical nontechnical skills to support you in landing and keeping a job in software development. 
+* We'll be launching Omni workshops in Q1 2018 that extend the content you explored in your first few weeks at the Guild. Attendance will be a required part of the program. We’re in the process of defining the scope of Omni workshops and the offering cadence. 
 
 ### _Consulting // Lead Link: Judy Tuan_
 
@@ -73,15 +73,11 @@
 
 * No update
 
-
-
 ## _Investment // Lead Link: Ian Inaba_
 
 #### Tactical Updates
 
 * No update
-
-
 
 ## _Marketing & Communications // L**ead Link: Ian Inaba**_
 
@@ -89,14 +85,12 @@
 
 * We are currently making updates to the website to reflect current program realities. Updates will most likely go live before the winter break. 
 
-
-
 ## _Community // Lead Link: Carla Bagdonas_
 
 #### Tactical Updates
 
 * ##### Inching closer to our year-end Alum employment goals:
-* Alums employed in industry increased from 71% to 73% with a goal of hitting 75% by 12/22. 
+* Alums employed in industry increased from 71% to 73% with a goal of hitting 75% by 12/22.
 
 * Alums employed full time \(in industry\) increased from 50% to 60%, with a goal of maintaining or exceeding 60% by 12/22.
 
