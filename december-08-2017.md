@@ -47,7 +47,7 @@
 
 * The rebooted COS, now called, Omni is up and running with bi-weekly House Meetings and Learning Facilitator 1:1s.
 
-* We'll be launching Omni workshops in Q1 2018 that extend the content you explored in your first few weeks at the Guild. Attendance will be a required part of the program. We’re in the process of defining the scope of Omni workshops and the offering cadence. 
+* In Q1 2018 we'll be launching new Omni workshops that extend the content you explored in the onboarding workshops during your first few weeks at the Guild. Attendance will be a required part of the program. We’re in the process of defining the scope of Omni workshops and the offering cadence. Stay tuned. 
 
 ### _Consulting // Lead Link: Judy Tuan_
 
