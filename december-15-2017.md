@@ -60,8 +60,6 @@
 
 * No update.
 
-
-
 ## _Finance & Operations // **Lead Link: Briana Krompier**_
 
 #### Tactical Updates
