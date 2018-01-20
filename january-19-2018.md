@@ -4,7 +4,7 @@
 
 ## Learner Things
 
-* There are no major updates to share at the moment. All events, especially in the Career Development arena, are available on the Guild Program Calendar
+* There are no major updates to share at the moment. All events, especially in the Career Development arena, are available on the Guild Program Calendar.
 
 ##### Omni
 
