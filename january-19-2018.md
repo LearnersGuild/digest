@@ -12,5 +12,5 @@
 
 ## Other things
 
-![](/assets/cricket_nobackground.png){crickets
+![](/assets/cricket_nobackground.png){crickets}
 
