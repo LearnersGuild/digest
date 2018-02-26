@@ -12,7 +12,11 @@ Just wanna share a few clarifications around the daily schedule and squads:
 
 * Morning squad meeting is meant to be acheck-in \(good morning, how ya doin’?\). It starts right at 10. Like Carla’s favorite high school volleyball coach used to say, “If you’re early you’re on time, if you’re on time you’re late!”
 
-* Afternoon stand up is a...well, stand up. And should also happen with your squad \(since most people aren’t working on project teams but on independent study or portfolio projects. If you’re working on a team and prefer to stand up with them, clear it with your squad leader\). It starts at 1pm sharp. Get in, stand up, get down \(to business...writing code...Carla is a little loopy writing this on Friday afternoon…\)
+* Afternoon stand up is a...well, stand up. It should be short, sweet, and follow the Agile format of Y/T/B \(what did you accomplish \*Yesterday\*, what will you accomplish \*Today\*, and whether you're currently \*Blocked\* by anything\).
+
+* Standup with your \*squad leader\* unless you're working on an SEP-led project, then standup with your \*project leader's squad\*. For example, if I'm in Judy's squad but I'm working on Echo, I'll standup with Punit. If you're collaborating on an independent project not led by an SEP, choose one of your respective squad leaders to join \(here's looking at you, Debrena\)
+
+* Standup starts at 1pm sharp. Get in, stand up, get down \(to business...writing code...Carla is a little loopy writing this on Friday afternoon…\)
 
 * Friday code reviews and demos now happen in squads.
 
